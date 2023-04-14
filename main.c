@@ -185,12 +185,8 @@ void libera(No* noAtual) {
         for(i=0; i <= noAtual->qtdChaves; i++) {
             libera(noAtual->filhos[i]);
         }
-        // noAtual->folha = true;
-        // libera(noAtual);
-
-        free(noAtual->filhos);
-        free(noAtual->chaves);
-        free(noAtual);
+        noAtual->folha = true;
+        libera(noAtual);
     }
 }
 
