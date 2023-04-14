@@ -1,0 +1,46 @@
+3
+insere 10
+insere 20
+insere 30
+insere 40
+imprime_arvore
+busca 15
+busca 30
+insere 15
+imprime_arvore
+busca 15
+insere 5
+imprime_arvore
+insere 50
+insere 60
+imprime_arvore
+insere 70
+imprime_arvore
+insere 25
+insere 35
+insere 18
+imprime_arvore
+insere 22
+imprime_arvore
+insere 80
+insere 90
+imprime_arvore
+insere 100
+imprime_arvore
+insere 110
+insere 120
+imprime_arvore
+insere 130
+imprime_arvore
+insere 19
+insere 16
+insere 21
+imprime_arvore
+insere 17
+imprime_arvore
+busca 17
+busca 22
+busca 70
+busca 30
+busca 31
+
